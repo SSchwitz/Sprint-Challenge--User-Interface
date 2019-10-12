@@ -1,0 +1,29 @@
+## Self-Study Questions
+
+Demonstrate your understanding of this week's concepts by answering the following free-form questions.
+
+Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
+
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML is using the proper HTML tags for the sections being built in a web page as opposed to using <div> sections on everything. 
+An example would be using the <H1> only once 
+as a describing item on the site, using sections, headers, nav, footers, asides, etc. This also has a major effect for SEO purposes.
+
+2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Block elements take up the full width of the entire page! The block elements will respect height and width commands, however inline commands do not 
+respect height. Inline commands do not take up full width either, but they do let other elements flow around if needed much like a span or anchor tag.
+
+3. What are the 4 areas of the box model?
+Content, padding, border, and margin.
+
+4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+Align items center while using flexbox will always be on the cross-axis.
+
+
+5. Explain why git is valuable to a team of developers.
+Git would be valuable to a team of developers because it allows you to revert the code back to its previous state, 
+it will also allow you to compare
+code changes over a specific area of time, it can also let you know who introduced a specific issue and when, as well as 
+branching to work on specific areas with each developer.
+
+You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
